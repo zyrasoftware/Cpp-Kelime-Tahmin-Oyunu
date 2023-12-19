@@ -39,7 +39,9 @@ Bu basit C++ programı, kullanıcının rastgele seçilen kelimeleri tahmin etti
 
 
 # Ekran Resmi
-![zyrasoftware](kodde7.PNG)
+![zyrasoftware](kodde6.PNG)
+
+
 
 # Bilgilendirme
 **---------------------------------------------------------**
